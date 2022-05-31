@@ -1,5 +1,5 @@
 # TeamRank
-A project I did for my Intro to Computer Programming class. We used google's PageRank algorithm to rank Premier League teams from 1993-2018.
+A project I did for my Intro to Computer Programming class along with Rudransh Mukherjee. We used google's PageRank algorithm to rank Premier League teams from 1993-2018.
 
 The files are as follows:
 - EPL_Set.csv: The data set of matches we used
